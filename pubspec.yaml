@@ -1,0 +1,4 @@
+name: coinbase
+description: A Coinbase library for Dart
+executables:
+  coinbase: coinbase
